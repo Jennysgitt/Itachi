@@ -1,0 +1,84 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: lightgray;
+}
+
+.heading{
+    background-color: blue;
+    padding: 10px 0;
+}
+
+.header{
+    text-align: center;
+    background-color: white;
+    color: darkblue;
+    padding: 8px 0;
+    margin: 0 560px;
+}
+
+.img.anime{
+    width: 100%;
+    height: auto;
+    margin: 0%;
+}
+
+.shinobi{
+    background-color: white;
+    border:2px blue solid ;
+    border-left: 0;
+    margin-right: 850px;
+    color: blue;
+    line-height: 20px;
+    font-style: italic;
+    padding: 10px;
+    font-size: 25px;
+    position: relative;
+    bottom: 400px;
+    right: 2px;
+    
+}
+
+.list-heading{
+    color: darkblue;
+    text-decoration: underline;
+}
+
+.container{
+    padding:2px 0;
+}
+
+.list{
+    background-color: white;
+    line-height: 40px;
+    border-radius: 20px;
+    padding: 20px 100px;
+    margin:20px 300px;
+    position: relative;
+    bottom: 70px;
+}
+
+.sublist{
+    margin-left: 20px;
+}
+
+.footer{
+    background-color: black;
+    padding: 30px 0;
+}
+
+.exta-info{
+    color: white;
+    text-decoration: none;
+    border: white 2px solid;
+    padding: 5px 2px;
+    margin: 0 550px;
+}
+
+.exta-info:hover{
+    color: darkblue;
+    border: darkblue 2px solid;
+}
