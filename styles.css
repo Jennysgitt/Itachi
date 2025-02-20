@@ -9,21 +9,15 @@ body{
 
 .heading{
     background-color: blue;
-    padding: 10px 0;
+    padding: 8px 0;
 }
 
 .header{
     text-align: center;
     background-color: white;
     color: darkblue;
-    padding: 8px 0;
-    margin: 0 560px;
-}
-
-.img.anime{
-    width: 100%;
-    height: auto;
-    margin: 0%;
+    padding: 6px 0;
+    margin: 0 500px;
 }
 
 .shinobi{
@@ -67,18 +61,18 @@ body{
 
 .footer{
     background-color: black;
-    padding: 30px 0;
+    padding: 20px 0;
 }
 
-.exta-info{
+.extra-info{
     color: white;
     text-decoration: none;
     border: white 2px solid;
-    padding: 5px 2px;
-    margin: 0 550px;
+    padding: 7px 3px;
+    margin: 0 500px;
 }
 
-.exta-info:hover{
+.extra-info:hover{
     color: darkblue;
-    border: darkblue 2px solid;
+    border: darkblue 4px solid;
 }
